@@ -1,0 +1,14 @@
+http://feeds.latimes.com/latimes/news?format=xml
+http://feeds.nytimes.com/nyt/rss/HomePage
+http://rss.news.yahoo.com/rss/topstories
+http://news.google.com/news?pz=1&cf=all&ned=us&hl=en&output=rss
+http://www.npr.org/rss/rss.php?id=1001
+http://feeds.reuters.com/reuters/worldNews
+http://rss.cnn.com/rss/cnn_topstories.rss
+http://www.cnbc.com/id/19789731/device/rss/rss.html
+http://feeds.bbci.co.uk/news/rss.xml
+http://content.usatoday.com/marketing/rss/rsstrans.aspx?feedId=news1
+http://feeds.cbsnews.com/CBSNewsMain
+http://www.un.org/apps/news/rss/rss_top.asp
+http://www.ft.com/rss/home/us
+http://www.nypost.com/rss/all_section.xml 
